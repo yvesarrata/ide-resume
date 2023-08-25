@@ -93,12 +93,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
-            ],
+              "node_modules/@codemirror/theme-one-dark/theme-one-dark.css",
+              "src/styles.css"
+            ],                    
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3772eff9-9d66-4ea7-ad46-9ffd394dd08e"
   }
 }
